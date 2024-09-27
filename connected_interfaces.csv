@@ -1,0 +1,4 @@
+Port,Status,VLAN,Duplex,Speed,Type
+Fa0/1,connected,10,a-full,a-100,10/100BaseTX
+Fa0/2,connected,20,a-full,a-100,10/100BaseTX
+Gi0/1,connected,trunk,a-full,a-1000,1000BaseLX
